@@ -1,5 +1,13 @@
 # UI Design Rules
 
+## Element should have spacing from its container
+
+![Element spacing from its container](assets/space-from-container.svg)
+
+Spacing is not required for sections that extend to the container edges and follow its contour:
+
+![Sections extending to container edges and following its contour](assets/contour-match.svg)
+
 ## Element should have equal x and y spacing from its container edges
 
 ![Equal corner spacing regular case](assets/equal-spacing-regular.svg)
