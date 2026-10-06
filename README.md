@@ -1,5 +1,7 @@
 # UI Design Rules
 
+Simple UI design rules that almost always apply, unless you’re building [art](https://en.wikipedia.org/wiki/Casa_Mil%C3%A0).
+
 ## Element should have spacing from its container
 
 ![Element spacing from its container](assets/space-from-container.svg)
