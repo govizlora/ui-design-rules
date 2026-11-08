@@ -1,4 +1,6 @@
-<svg width="640" height="320" viewBox="0 0 640 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="640" height="320" viewBox="0 0 640 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Leave space inside containers</title>
+<desc id="desc">Do: leave space between a rounded element and its container edges. Don’t: let the element touch the edges while its rounded corners do not follow the container contour.</desc>
 <rect x="40.5" y="40.5" width="259" height="219" stroke="#808080" stroke-opacity="0.5"/>
 <path opacity="0.5" d="M170 246V257" stroke="#34C759" stroke-width="2" stroke-linecap="round"/>
 <path opacity="0.5" d="M286 228H297" stroke="#34C759" stroke-width="2" stroke-linecap="round"/>

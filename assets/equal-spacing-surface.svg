@@ -1,4 +1,6 @@
-<svg width="640" height="320" viewBox="0 0 640 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="640" height="320" viewBox="0 0 640 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Equal insets along multiple container edges</title>
+<desc id="desc">Do: give a nested panel equal left, right, and bottom insets. Don’t: make its side insets smaller than its bottom inset.</desc>
 <rect x="40.5" y="40.5" width="259" height="219" rx="31.5" stroke="#808080" opacity="0.5"/>
 <path opacity="0.5" d="M170 246V257" stroke="#34C759" stroke-width="2" stroke-linecap="round"/>
 <path opacity="0.5" d="M470 246V257" stroke="#34C759" stroke-width="2" stroke-linecap="round"/>
